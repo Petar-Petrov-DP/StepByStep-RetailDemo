@@ -1,0 +1,31 @@
+﻿2022-10-20 10:44:27.841 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 10:44:27.917 INFO  No valid license could be found. Falling back to trial license with start date '2022-10-04'.
+2022-10-20 10:44:27.918 ERROR Trial license expired. Get your free development license at https://particular.net/license/nservicebus?v=7.8.0&t=0&p=windows
+2022-10-20 10:44:27.919 WARN  To extend your trial license, visit: https://particular.net/license/nservicebus?v=7.8.0&t=0&p=windows
+2022-10-20 10:48:22.196 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 10:48:22.467 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 10:53:42.529 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 10:53:42.707 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 10:53:42.865 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 10:53:51.154 INFO  Sending PlaceOrder command, OrderId = f2eeb86c-42c8-4785-ad00-5372f2cc7d0d
+2022-10-20 10:53:51.200 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 10:53:51.288 INFO  Received PlaceOrder, OrderId = f2eeb86c-42c8-4785-ad00-5372f2cc7d0d
+2022-10-20 10:53:59.666 INFO  Sending PlaceOrder command, OrderId = 88263755-c96e-4005-997d-6970e7071a9c
+2022-10-20 10:53:59.669 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 10:53:59.686 INFO  Received PlaceOrder, OrderId = 88263755-c96e-4005-997d-6970e7071a9c
+2022-10-20 10:54:01.060 INFO  Sending PlaceOrder command, OrderId = 7c9ed542-1a48-495c-8329-f898b54782c0
+2022-10-20 10:54:01.064 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 10:54:01.072 INFO  Received PlaceOrder, OrderId = 7c9ed542-1a48-495c-8329-f898b54782c0
+2022-10-20 10:54:01.736 INFO  Sending PlaceOrder command, OrderId = b46f86f2-2e7c-47a8-8dd5-7ab8489ffb2b
+2022-10-20 10:54:01.740 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 10:54:01.751 INFO  Received PlaceOrder, OrderId = b46f86f2-2e7c-47a8-8dd5-7ab8489ffb2b
+2022-10-20 10:54:02.265 INFO  Sending PlaceOrder command, OrderId = 3e867f7c-19b3-44fb-b666-6edff141f0e1
+2022-10-20 10:54:02.268 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 10:54:02.274 INFO  Received PlaceOrder, OrderId = 3e867f7c-19b3-44fb-b666-6edff141f0e1
+2022-10-20 10:54:02.767 INFO  Sending PlaceOrder command, OrderId = a6271d94-62fa-4d21-9574-62f884a41b29
+2022-10-20 10:54:02.771 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 10:54:02.781 INFO  Received PlaceOrder, OrderId = a6271d94-62fa-4d21-9574-62f884a41b29
+2022-10-20 10:54:03.926 INFO  Initiating shutdown.
+2022-10-20 10:54:03.934 INFO  Shutdown complete.

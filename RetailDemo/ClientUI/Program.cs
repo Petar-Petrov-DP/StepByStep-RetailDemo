@@ -3,64 +3,64 @@ using Messages.Commands;
 using NServiceBus;
 using NServiceBus.Logging;
 
-
-static async Task AsyncMain()
+class Program
 {
-    Console.Title = "ClinetUI";
+    static async Task Main()
+    {
+        Console.Title = "ClinetUI";
 
-    var endpointConfiguration = new EndpointConfiguration("ClientUI");
+        var endpointConfiguration = new EndpointConfiguration("ClientUI");
 
-    var transport = endpointConfiguration.UseTransport<LearningTransport>();
+        var transport = endpointConfiguration.UseTransport<LearningTransport>();
 
 
-    //Start the endpoint
-    var endpointInstance = await Endpoint.Start(endpointConfiguration)
+        //Start the endpoint
+        var endpointInstance = await Endpoint.Start(endpointConfiguration)
         .ConfigureAwait(false);
 
-    RunLoop(endpointInstance);
-
-
-    await endpointInstance.Stop()
-    .ConfigureAwait(false);
-}
 
 
 
-static async Task RunLoop(IEndpointInstance endpointInstance)
-{
-    while (true)
+        await RunLoop(endpointInstance)
+            .ConfigureAwait(false);
+
+        await endpointInstance.Stop()
+            .ConfigureAwait(false);
+    }
+
+    static ILog log = LogManager.GetLogger<Program>();
+
+    static async Task RunLoop(IEndpointInstance endpointInstance)
     {
-        log.Info("Press 'P' to place an order, or 'Q' to quit.");
-        var key = Console.ReadKey();
-        Console.WriteLine();
-
-        switch (key.Key)
+        while (true)
         {
-            case ConsoleKey.P:
-                // Instantiate the command
-                var command = new PlaceOrder
-                {
-                    OrderId = Guid.NewGuid().ToString()
-                };
+            log.Info("Press 'P' to place an order, or 'Q' to quit.");
+            var key = Console.ReadKey();
+            Console.WriteLine();
 
-                // Send the command to the local endpoint
-                log.Info($"Sending PlaceOrder command, OrderId = {command.OrderId}");
-                await endpointInstance.SendLocal(command)
-                    .ConfigureAwait(false);
+            switch (key.Key)
+            {
+                case ConsoleKey.P:
+                    // Instantiate the command
+                    var command = new PlaceOrder
+                    {
+                        OrderId = Guid.NewGuid().ToString()
+                    };
 
-                break;
+                    // Send the command to the local endpoint
+                    log.Info($"Sending PlaceOrder command, OrderId = {command.OrderId}");
+                    await endpointInstance.SendLocal(command)
+                        .ConfigureAwait(false);
 
-            case ConsoleKey.Q:
-                return;
+                    break;
 
-            default:
-                log.Info("Unknown input. Please try again.");
-                break;
+                case ConsoleKey.Q:
+                    return;
+
+                default:
+                    log.Info("Unknown input. Please try again.");
+                    break;
+            }
         }
     }
-}
-
-public partial class Program
-{
-    static ILog log = LogManager.GetLogger<Program>();
 }
