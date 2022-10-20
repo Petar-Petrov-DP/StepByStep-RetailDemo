@@ -10,7 +10,7 @@
         "FileVersion": "1.0.0"
       },
       {
-        "FullName": "Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "FullName": "Sales.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
         "FileVersion": "1.0.0"
       }
     ],
@@ -1552,7 +1552,7 @@
       "MajorRevision": -1,
       "MinorRevision": -1
     },
-    "WorkingSet": 45813760,
+    "WorkingSet": 51683328,
     "SystemPageSize": 4096,
     "HostName": "LAPTOP-6SUMS60P",
     "UserName": "PetarPetrov",
@@ -1576,8 +1576,9 @@
     "MessageConventions": [
       "NServiceBus Marker Interfaces"
     ],
-    "NumberOfMessagesFoundAtStartup": 1,
+    "NumberOfMessagesFoundAtStartup": 2,
     "Messages": [
+      "Messages.Commands.OrderPlaced",
       "Messages.Commands.PlaceOrder"
     ]
   },
@@ -1603,9 +1604,7 @@
     ],
     "ExternalHandlerRegistry": false,
     "MessageHandlers": {
-      "Messages.Commands.PlaceOrder": [
-        "ClientUI.PlaceOrderHandler"
-      ]
+      
     }
   },
   "Recoverability": {

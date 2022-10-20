@@ -1,0 +1,12 @@
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\bin\Debug\net6.0\Sales.Messages.deps.json
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\bin\Debug\net6.0\Sales.Messages.dll
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\bin\Debug\net6.0\Sales.Messages.pdb
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.csproj.AssemblyReference.cache
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.AssemblyInfoInputs.cache
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.AssemblyInfo.cs
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.csproj.CoreCompileInputs.cache
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.dll
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\obj\Debug\net6.0\refint\Sales.Messages.dll
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\obj\Debug\net6.0\Sales.Messages.pdb
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Messages\obj\Debug\net6.0\ref\Sales.Messages.dll

@@ -1,0 +1,103 @@
+﻿2022-10-20 12:00:15.813 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 12:00:15.937 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:00:22.402 INFO  Received PlaceOrder, OrderId = 7542ccba-8411-437c-87bc-1a2ddf528a57
+2022-10-20 12:01:15.565 INFO  Received PlaceOrder, OrderId = f1a9eda3-3fbd-435d-a396-2b2098e571f6
+2022-10-20 12:01:16.456 INFO  Received PlaceOrder, OrderId = 98666f5b-58c9-4927-9f5e-26da674accc4
+2022-10-20 12:01:17.220 INFO  Received PlaceOrder, OrderId = 60f8ad78-d6e1-4bbe-bc17-171d0dbc277b
+2022-10-20 12:01:17.831 INFO  Received PlaceOrder, OrderId = f4b0cb5f-33c7-4fc1-bdc8-f01027d2ccc7
+2022-10-20 12:01:18.351 INFO  Received PlaceOrder, OrderId = 724fd6a9-4cf4-47db-99a8-b96de0f2e5e5
+2022-10-20 12:01:18.366 INFO  Received PlaceOrder, OrderId = 3918d36e-599b-4ceb-a395-0b1cafb83e4c
+2022-10-20 12:01:18.400 INFO  Received PlaceOrder, OrderId = eb6d00ba-97cd-4e9c-8b35-10a7b56217e3
+2022-10-20 12:01:18.432 INFO  Received PlaceOrder, OrderId = 227f884b-220c-4196-9e7f-5320a0147d0e
+2022-10-20 12:01:18.490 INFO  Received PlaceOrder, OrderId = 26e81e70-2a8a-4182-8ff6-5c0d53b9b6e7
+2022-10-20 12:01:18.521 INFO  Received PlaceOrder, OrderId = 6bbb834b-71c2-49ac-bf90-fcac06c4a5c5
+2022-10-20 12:01:18.551 INFO  Received PlaceOrder, OrderId = 5aeba85b-b98b-41bd-b7e7-e17a14861e7b
+2022-10-20 12:01:18.581 INFO  Received PlaceOrder, OrderId = 67d4d789-01eb-42b9-a931-7fb05326d2aa
+2022-10-20 12:01:24.746 INFO  Initiating shutdown.
+2022-10-20 12:01:24.752 INFO  Shutdown complete.
+2022-10-20 12:06:29.816 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 12:06:29.927 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:07:47.350 INFO  Initiating shutdown.
+2022-10-20 12:07:47.357 INFO  Shutdown complete.
+2022-10-20 12:07:55.109 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 12:07:55.382 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:08:10.016 INFO  Received PlaceOrder, OrderId = e2a7e554-0042-4472-be32-598e4895e453
+2022-10-20 12:08:10.356 INFO  Received PlaceOrder, OrderId = 1a7e5a4c-61e4-4099-8000-ef89aac47dba
+2022-10-20 12:08:13.470 INFO  Initiating shutdown.
+2022-10-20 12:08:13.487 INFO  Shutdown complete.
+2022-10-20 12:08:17.603 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 12:08:17.841 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:10:46.403 INFO  Received PlaceOrder, OrderId = 298e76ce-fa34-43c7-900d-39ba04e6a7d3
+2022-10-20 12:10:51.515 INFO  Initiating shutdown.
+2022-10-20 12:10:51.533 INFO  Shutdown complete.
+2022-10-20 12:13:08.858 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 12:13:09.151 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:13:14.074 INFO  Received PlaceOrder, OrderId = 1e47d6ed-fd46-4b18-bffb-7cf23acf9926
+2022-10-20 12:13:36.449 INFO  Initiating shutdown.
+2022-10-20 12:13:36.463 INFO  Shutdown complete.
+2022-10-20 12:13:55.637 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 12:13:55.940 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:14:53.273 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 12:14:53.496 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:14:53.800 INFO  Received PlaceOrder, OrderId = f3996201-e0c3-4e04-86a1-55aa1ea84fc5
+2022-10-20 12:14:53.816 INFO  Received PlaceOrder, OrderId = dd296864-8bc2-4f54-8f68-d6669d3437a8
+2022-10-20 12:14:53.824 INFO  Received PlaceOrder, OrderId = 6adde898-25ea-4d5c-bc17-efd6e6e40568
+2022-10-20 12:14:53.831 INFO  Received PlaceOrder, OrderId = 479cc2d2-af82-4e81-b624-3ff1a538053a
+2022-10-20 13:28:31.211 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 13:28:32.105 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 13:28:40.870 INFO  Received PlaceOrder, OrderId = ac4a651c-405e-45be-b4c2-142025b41a3f
+2022-10-20 13:32:36.239 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 13:32:36.540 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 13:32:46.827 INFO  Received PlaceOrder, OrderId = 86f2b49f-8d6b-41da-b1c3-105b2fd20203
+2022-10-20 13:33:15.122 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 13:33:15.407 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 13:33:26.983 INFO  Received PlaceOrder, OrderId = 092becd3-75ea-4518-8b4a-e6e04ad1f10a
+2022-10-20 13:33:42.049 INFO  Initiating shutdown.
+2022-10-20 13:33:42.065 INFO  Shutdown complete.
+2022-10-20 13:37:27.759 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 13:37:28.043 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 13:37:41.408 INFO  Received PlaceOrder, OrderId = 4e5367db-770f-4f63-a3a1-2965eed4ad04
+2022-10-20 13:37:53.609 INFO  Received PlaceOrder, OrderId = 88973575-84c2-4525-b418-f03c36043476
+2022-10-20 13:38:18.149 INFO  Received PlaceOrder, OrderId = 8e9d9dad-cec8-4c21-86c2-823a7b15568f
+2022-10-20 13:38:20.349 INFO  Received PlaceOrder, OrderId = b0f25577-b5f8-4cfa-a1fc-85e57bb6c6e2
+2022-10-20 13:38:22.060 INFO  Received PlaceOrder, OrderId = f12c1f86-6afb-45a3-9ffa-672736587f25
+2022-10-20 14:01:11.060 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 14:01:11.351 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:01:22.239 INFO  Received PlaceOrder, OrderId = 8bea2a76-27a8-4e71-adda-d70d5b5fd3e0
+2022-10-20 14:01:33.070 INFO  Received PlaceOrder, OrderId = 35da8217-6c8c-4a7d-96ea-4960c2f740d1
+2022-10-20 14:01:33.641 INFO  Received PlaceOrder, OrderId = 1579ed16-6838-405e-813f-1c1be0857765
+2022-10-20 14:04:18.193 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 14:04:18.482 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:04:24.176 INFO  Received PlaceOrder, OrderId = da00dcff-55ae-412b-8574-b8f3ff7e4682
+2022-10-20 14:41:43.742 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 14:41:43.855 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:42:03.172 INFO  Received PlaceOrder, OrderId = 585fd595-05a3-404d-8579-7cf5c6fccbcd
+2022-10-20 14:44:51.312 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 14:44:51.572 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:45:09.299 INFO  Received PlaceOrder, OrderId = 0ca99fc0-3c71-4f50-a8a3-9d64b4f756a9
+2022-10-20 14:46:59.433 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 14:46:59.716 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:47:08.605 INFO  Received PlaceOrder, OrderId = 4dd55f9e-cc12-464d-b9df-41959d1b2394
+2022-10-20 14:47:18.486 INFO  Received PlaceOrder, OrderId = 0412f4ea-67d3-4901-bb54-4be2ffad5dd5
+2022-10-20 14:47:19.689 INFO  Received PlaceOrder, OrderId = fcfa967d-8ce2-41c0-8a4f-8cdb76d9c6f9
+2022-10-20 14:48:36.396 INFO  Received PlaceOrder, OrderId = 2acc6e6e-966a-41f7-9f40-893237f30e76
+2022-10-20 14:50:07.650 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Sales\bin\Debug\net6.0\' with level Info
+2022-10-20 14:50:07.921 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:50:20.526 INFO  Received PlaceOrder, OrderId = ca9213b8-715b-4e54-bd6e-305e9c1eb656

@@ -15,8 +15,6 @@ C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\
 C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\Messages.dll
-C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\Messages.pdb
 C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\obj\Debug\net6.0\ClientUI.csproj.AssemblyReference.cache
 C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\obj\Debug\net6.0\ClientUI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\obj\Debug\net6.0\ClientUI.AssemblyInfoInputs.cache
@@ -28,3 +26,5 @@ C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\obj\
 C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\obj\Debug\net6.0\ClientUI.pdb
 C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\obj\Debug\net6.0\ClientUI.genruntimeconfig.cache
 C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\obj\Debug\net6.0\ref\ClientUI.dll
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\Sales.Messages.dll
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\Sales.Messages.pdb

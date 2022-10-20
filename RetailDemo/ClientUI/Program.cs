@@ -13,6 +13,9 @@ class Program
 
         var transport = endpointConfiguration.UseTransport<LearningTransport>();
 
+        var routing = transport.Routing();
+
+        routing.RouteToEndpoint(typeof(PlaceOrder), "Sales");
 
         //Start the endpoint
         var endpointInstance = await Endpoint.Start(endpointConfiguration)
@@ -49,7 +52,7 @@ class Program
 
                     // Send the command to the local endpoint
                     log.Info($"Sending PlaceOrder command, OrderId = {command.OrderId}");
-                    await endpointInstance.SendLocal(command)
+                    await endpointInstance.Send(command)
                         .ConfigureAwait(false);
 
                     break;

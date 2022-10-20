@@ -767,9 +767,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj",
-      "projectName": "Messages",
-      "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj",
+      "projectUniqueName": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Sales.Messages.csproj",
+      "projectName": "Sales.Messages",
+      "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Sales.Messages.csproj",
       "packagesPath": "C:\\Users\\PetarPetrov\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\obj\\",
       "projectStyle": "PackageReference",

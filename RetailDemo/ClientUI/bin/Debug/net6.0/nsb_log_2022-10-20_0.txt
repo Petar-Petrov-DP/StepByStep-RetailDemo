@@ -29,3 +29,163 @@ License Expiration: 2023-01-18
 2022-10-20 10:54:02.781 INFO  Received PlaceOrder, OrderId = a6271d94-62fa-4d21-9574-62f884a41b29
 2022-10-20 10:54:03.926 INFO  Initiating shutdown.
 2022-10-20 10:54:03.934 INFO  Shutdown complete.
+2022-10-20 12:00:15.418 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 12:00:15.563 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:00:15.688 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:00:22.283 INFO  Sending PlaceOrder command, OrderId = 7542ccba-8411-437c-87bc-1a2ddf528a57
+2022-10-20 12:00:22.324 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:15.547 INFO  Sending PlaceOrder command, OrderId = f1a9eda3-3fbd-435d-a396-2b2098e571f6
+2022-10-20 12:01:15.551 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:16.445 INFO  Sending PlaceOrder command, OrderId = 98666f5b-58c9-4927-9f5e-26da674accc4
+2022-10-20 12:01:16.447 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:17.204 INFO  Sending PlaceOrder command, OrderId = 60f8ad78-d6e1-4bbe-bc17-171d0dbc277b
+2022-10-20 12:01:17.208 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:17.821 INFO  Sending PlaceOrder command, OrderId = f4b0cb5f-33c7-4fc1-bdc8-f01027d2ccc7
+2022-10-20 12:01:17.824 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:18.326 INFO  Sending PlaceOrder command, OrderId = 724fd6a9-4cf4-47db-99a8-b96de0f2e5e5
+2022-10-20 12:01:18.334 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:18.352 INFO  Sending PlaceOrder command, OrderId = 3918d36e-599b-4ceb-a395-0b1cafb83e4c
+2022-10-20 12:01:18.356 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:18.386 INFO  Sending PlaceOrder command, OrderId = eb6d00ba-97cd-4e9c-8b35-10a7b56217e3
+2022-10-20 12:01:18.389 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:18.418 INFO  Sending PlaceOrder command, OrderId = 227f884b-220c-4196-9e7f-5320a0147d0e
+2022-10-20 12:01:18.422 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:18.463 INFO  Sending PlaceOrder command, OrderId = 26e81e70-2a8a-4182-8ff6-5c0d53b9b6e7
+2022-10-20 12:01:18.467 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:18.495 INFO  Sending PlaceOrder command, OrderId = 6bbb834b-71c2-49ac-bf90-fcac06c4a5c5
+2022-10-20 12:01:18.498 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:18.530 INFO  Sending PlaceOrder command, OrderId = 5aeba85b-b98b-41bd-b7e7-e17a14861e7b
+2022-10-20 12:01:18.534 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:18.560 INFO  Sending PlaceOrder command, OrderId = 67d4d789-01eb-42b9-a931-7fb05326d2aa
+2022-10-20 12:01:18.564 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:01:20.489 INFO  Initiating shutdown.
+2022-10-20 12:01:20.498 INFO  Shutdown complete.
+2022-10-20 12:06:29.215 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 12:06:29.362 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:06:29.480 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:07:45.232 INFO  Initiating shutdown.
+2022-10-20 12:07:45.238 INFO  Shutdown complete.
+2022-10-20 12:07:54.647 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 12:07:54.970 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:07:55.194 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:08:09.757 INFO  Sending PlaceOrder command, OrderId = e2a7e554-0042-4472-be32-598e4895e453
+2022-10-20 12:08:09.866 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:08:10.339 INFO  Sending PlaceOrder command, OrderId = 1a7e5a4c-61e4-4099-8000-ef89aac47dba
+2022-10-20 12:08:10.349 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:08:11.007 INFO  Initiating shutdown.
+2022-10-20 12:08:11.021 INFO  Shutdown complete.
+2022-10-20 12:08:17.001 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 12:08:17.312 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:08:17.550 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:10:44.340 INFO  Unknown input. Please try again.
+2022-10-20 12:10:44.342 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:10:46.114 INFO  Sending PlaceOrder command, OrderId = 298e76ce-fa34-43c7-900d-39ba04e6a7d3
+2022-10-20 12:10:46.224 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:10:49.854 INFO  Unknown input. Please try again.
+2022-10-20 12:10:49.857 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:10:53.539 INFO  Unknown input. Please try again.
+2022-10-20 12:10:53.541 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:10:54.245 INFO  Initiating shutdown.
+2022-10-20 12:10:54.262 INFO  Shutdown complete.
+2022-10-20 12:13:08.499 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 12:13:08.790 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:13:09.010 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:13:13.825 INFO  Sending PlaceOrder command, OrderId = 1e47d6ed-fd46-4b18-bffb-7cf23acf9926
+2022-10-20 12:13:13.938 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:13:18.776 INFO  Initiating shutdown.
+2022-10-20 12:13:18.796 INFO  Shutdown complete.
+2022-10-20 12:13:55.036 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 12:13:55.338 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 12:13:55.589 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:14:14.381 INFO  Sending PlaceOrder command, OrderId = dd296864-8bc2-4f54-8f68-d6669d3437a8
+2022-10-20 12:14:14.498 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:14:14.501 INFO  Sending PlaceOrder command, OrderId = 479cc2d2-af82-4e81-b624-3ff1a538053a
+2022-10-20 12:14:14.507 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:14:18.644 INFO  Sending PlaceOrder command, OrderId = f3996201-e0c3-4e04-86a1-55aa1ea84fc5
+2022-10-20 12:14:18.649 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 12:14:20.459 INFO  Sending PlaceOrder command, OrderId = 6adde898-25ea-4d5c-bc17-efd6e6e40568
+2022-10-20 12:14:20.464 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:28:31.187 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 13:28:32.106 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 13:28:32.386 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:28:40.456 INFO  Sending PlaceOrder command, OrderId = ac4a651c-405e-45be-b4c2-142025b41a3f
+2022-10-20 13:28:40.599 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:32:35.850 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 13:32:36.175 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 13:32:36.448 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:32:46.581 INFO  Sending PlaceOrder command, OrderId = 86f2b49f-8d6b-41da-b1c3-105b2fd20203
+2022-10-20 13:32:46.687 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:33:15.004 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 13:33:15.282 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 13:33:15.507 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:33:26.729 INFO  Sending PlaceOrder command, OrderId = 092becd3-75ea-4518-8b4a-e6e04ad1f10a
+2022-10-20 13:33:26.842 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:37:27.601 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 13:37:27.903 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 13:37:28.146 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:37:41.137 INFO  Sending PlaceOrder command, OrderId = 4e5367db-770f-4f63-a3a1-2965eed4ad04
+2022-10-20 13:37:41.248 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:37:53.585 INFO  Sending PlaceOrder command, OrderId = 88973575-84c2-4525-b418-f03c36043476
+2022-10-20 13:37:53.594 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:38:18.123 INFO  Sending PlaceOrder command, OrderId = 8e9d9dad-cec8-4c21-86c2-823a7b15568f
+2022-10-20 13:38:18.132 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:38:20.338 INFO  Sending PlaceOrder command, OrderId = b0f25577-b5f8-4cfa-a1fc-85e57bb6c6e2
+2022-10-20 13:38:20.344 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 13:38:22.049 INFO  Sending PlaceOrder command, OrderId = f12c1f86-6afb-45a3-9ffa-672736587f25
+2022-10-20 13:38:22.053 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:01:10.874 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 14:01:11.163 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:01:11.380 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:01:21.980 INFO  Sending PlaceOrder command, OrderId = 8bea2a76-27a8-4e71-adda-d70d5b5fd3e0
+2022-10-20 14:01:22.100 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:01:33.043 INFO  Sending PlaceOrder command, OrderId = 35da8217-6c8c-4a7d-96ea-4960c2f740d1
+2022-10-20 14:01:33.055 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:01:33.612 INFO  Sending PlaceOrder command, OrderId = 1579ed16-6838-405e-813f-1c1be0857765
+2022-10-20 14:01:33.617 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:04:17.750 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 14:04:18.094 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:04:18.327 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:04:23.821 INFO  Sending PlaceOrder command, OrderId = da00dcff-55ae-412b-8574-b8f3ff7e4682
+2022-10-20 14:04:23.936 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:41:43.281 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 14:41:43.409 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:41:43.511 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:42:03.048 INFO  Sending PlaceOrder command, OrderId = 585fd595-05a3-404d-8579-7cf5c6fccbcd
+2022-10-20 14:42:03.098 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:44:50.861 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 14:44:51.154 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:44:51.356 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:45:09.043 INFO  Sending PlaceOrder command, OrderId = 0ca99fc0-3c71-4f50-a8a3-9d64b4f756a9
+2022-10-20 14:45:09.160 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:46:58.968 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 14:46:59.259 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:46:59.470 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:47:08.360 INFO  Sending PlaceOrder command, OrderId = 4dd55f9e-cc12-464d-b9df-41959d1b2394
+2022-10-20 14:47:08.466 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:47:18.465 INFO  Sending PlaceOrder command, OrderId = 0412f4ea-67d3-4901-bb54-4be2ffad5dd5
+2022-10-20 14:47:18.478 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:47:19.669 INFO  Sending PlaceOrder command, OrderId = fcfa967d-8ce2-41c0-8a4f-8cdb76d9c6f9
+2022-10-20 14:47:19.675 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:48:36.375 INFO  Sending PlaceOrder command, OrderId = 2acc6e6e-966a-41f7-9f40-893237f30e76
+2022-10-20 14:48:36.384 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:50:07.329 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 14:50:07.674 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:50:07.880 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 14:50:20.274 INFO  Sending PlaceOrder command, OrderId = ca9213b8-715b-4e54-bd6e-305e9c1eb656
+2022-10-20 14:50:20.388 INFO  Press 'P' to place an order, or 'Q' to quit.

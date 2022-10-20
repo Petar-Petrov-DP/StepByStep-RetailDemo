@@ -1,0 +1,12 @@
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\bin\Debug\net6.0\Billing.Messages.deps.json
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\bin\Debug\net6.0\Billing.Messages.dll
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\bin\Debug\net6.0\Billing.Messages.pdb
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.csproj.AssemblyReference.cache
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.AssemblyInfoInputs.cache
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.AssemblyInfo.cs
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.csproj.CoreCompileInputs.cache
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.dll
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\obj\Debug\net6.0\refint\Billing.Messages.dll
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\obj\Debug\net6.0\Billing.Messages.pdb
+C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing.Messages\obj\Debug\net6.0\ref\Billing.Messages.dll

@@ -1,0 +1,36 @@
+﻿2022-10-20 13:37:27.124 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+2022-10-20 13:37:27.466 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 13:37:41.641 INFO  Received OrderPlaced, OrderId = 4e5367db-770f-4f63-a3a1-2965eed4ad04 - Charging credit card...
+2022-10-20 13:37:53.640 INFO  Received OrderPlaced, OrderId = 88973575-84c2-4525-b418-f03c36043476 - Charging credit card...
+2022-10-20 13:38:18.200 INFO  Received OrderPlaced, OrderId = 8e9d9dad-cec8-4c21-86c2-823a7b15568f - Charging credit card...
+2022-10-20 13:38:20.379 INFO  Received OrderPlaced, OrderId = b0f25577-b5f8-4cfa-a1fc-85e57bb6c6e2 - Charging credit card...
+2022-10-20 13:38:22.090 INFO  Received OrderPlaced, OrderId = f12c1f86-6afb-45a3-9ffa-672736587f25 - Charging credit card...
+2022-10-20 14:01:09.355 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+2022-10-20 14:01:09.780 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:01:22.471 INFO  Received OrderPlaced, OrderId = 8bea2a76-27a8-4e71-adda-d70d5b5fd3e0 - Charging credit card...
+2022-10-20 14:01:33.113 INFO  Received OrderPlaced, OrderId = 35da8217-6c8c-4a7d-96ea-4960c2f740d1 - Charging credit card...
+2022-10-20 14:01:33.669 INFO  Received OrderPlaced, OrderId = 1579ed16-6838-405e-813f-1c1be0857765 - Charging credit card...
+2022-10-20 14:04:16.477 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+2022-10-20 14:04:16.820 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:04:24.508 INFO  Received OrderPlaced, OrderId = da00dcff-55ae-412b-8574-b8f3ff7e4682 - Billing
+2022-10-20 14:41:41.399 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+2022-10-20 14:41:41.547 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:42:03.291 INFO  Received OrderPlaced, OrderId = 585fd595-05a3-404d-8579-7cf5c6fccbcd - Charging credit card...
+2022-10-20 14:44:48.944 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+2022-10-20 14:44:49.252 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:45:09.558 INFO  Received OrderPlaced, OrderId = 0ca99fc0-3c71-4f50-a8a3-9d64b4f756a9 - Charging credit card...
+2022-10-20 14:46:56.942 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+2022-10-20 14:46:57.241 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:48:03.973 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+2022-10-20 14:48:04.224 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:50:06.349 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Billing\bin\Debug\net6.0\' with level Info
+2022-10-20 14:50:06.672 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:50:20.844 INFO  Received OrderPlaced, OrderId = ca9213b8-715b-4e54-bd6e-305e9c1eb656 - Charging credit card...

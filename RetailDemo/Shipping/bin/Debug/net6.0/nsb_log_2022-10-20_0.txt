@@ -1,0 +1,21 @@
+﻿2022-10-20 14:41:42.263 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+2022-10-20 14:41:42.398 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:42:03.303 INFO  Received OrderPlaced, OrderId = 585fd595-05a3-404d-8579-7cf5c6fccbcd - Shipping...
+2022-10-20 14:42:03.351 INFO  Received BilledOrder, OrderId = 585fd595-05a3-404d-8579-7cf5c6fccbcd - Shipping...
+2022-10-20 14:44:49.763 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+2022-10-20 14:44:50.071 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:45:09.569 INFO  Received OrderPlaced, OrderId = 0ca99fc0-3c71-4f50-a8a3-9d64b4f756a9 - Should we ship now?
+2022-10-20 14:45:09.654 INFO  Received OrderBilled, OrderId = 0ca99fc0-3c71-4f50-a8a3-9d64b4f756a9 - Should we ship now?
+2022-10-20 14:46:57.917 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+2022-10-20 14:46:58.218 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:48:15.016 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+2022-10-20 14:48:15.335 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:50:07.129 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\Shipping\bin\Debug\net6.0\' with level Info
+2022-10-20 14:50:07.464 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 14:50:20.808 INFO  Received OrderPlaced, OrderId = ca9213b8-715b-4e54-bd6e-305e9c1eb656 - Should we ship now?
+2022-10-20 14:50:20.959 INFO  Received OrderBilled, OrderId = ca9213b8-715b-4e54-bd6e-305e9c1eb656 - Should we ship now?

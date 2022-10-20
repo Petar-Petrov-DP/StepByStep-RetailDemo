@@ -209,17 +209,17 @@
           }
         }
       },
-      "Messages/1.0.0": {
+      "Sales.Messages/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "NServiceBus": "7.8.0"
         },
         "compile": {
-          "bin/placeholder/Messages.dll": {}
+          "bin/placeholder/Sales.Messages.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Messages.dll": {}
+          "bin/placeholder/Sales.Messages.dll": {}
         }
       }
     }
@@ -768,16 +768,16 @@
         "version.txt"
       ]
     },
-    "Messages/1.0.0": {
+    "Sales.Messages/1.0.0": {
       "type": "project",
-      "path": "../Messages/Messages.csproj",
-      "msbuildProject": "../Messages/Messages.csproj"
+      "path": "../Messages/Sales.Messages.csproj",
+      "msbuildProject": "../Messages/Sales.Messages.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Messages >= 1.0.0",
-      "NServiceBus >= 7.8.0"
+      "NServiceBus >= 7.8.0",
+      "Sales.Messages >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -807,8 +807,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj": {
-              "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj"
+            "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Sales.Messages.csproj": {
+              "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Sales.Messages.csproj"
             }
           }
         }

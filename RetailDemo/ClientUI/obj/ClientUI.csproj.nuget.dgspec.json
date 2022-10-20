@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj": {
-                "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj"
+              "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Sales.Messages.csproj": {
+                "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Sales.Messages.csproj"
               }
             }
           }
@@ -68,12 +68,12 @@
         }
       }
     },
-    "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj": {
+    "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Sales.Messages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj",
-        "projectName": "Messages",
-        "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj",
+        "projectUniqueName": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Sales.Messages.csproj",
+        "projectName": "Sales.Messages",
+        "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Sales.Messages.csproj",
         "packagesPath": "C:\\Users\\PetarPetrov\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\obj\\",
         "projectStyle": "PackageReference",
