@@ -189,3 +189,433 @@ License Expiration: 2023-01-18
 2022-10-20 14:50:07.880 INFO  Press 'P' to place an order, or 'Q' to quit.
 2022-10-20 14:50:20.274 INFO  Sending PlaceOrder command, OrderId = ca9213b8-715b-4e54-bd6e-305e9c1eb656
 2022-10-20 14:50:20.388 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:24:10.978 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 15:24:11.320 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 15:24:11.577 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:24:38.363 INFO  Sending PlaceOrder command, OrderId = bfb01c9c-2f4e-43ab-8a3d-1e90b16d3e08
+2022-10-20 15:24:38.481 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:31:57.800 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 15:31:58.037 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 15:31:58.239 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:33:01.304 INFO  Sending PlaceOrder command, OrderId = 774828a1-2910-47c4-811c-3998ee82bfac
+2022-10-20 15:33:01.497 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:33:01.503 INFO  Sending PlaceOrder command, OrderId = 4071d632-9a1f-4438-a28b-942c66ae1692
+2022-10-20 15:33:01.513 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:33:01.519 INFO  Sending PlaceOrder command, OrderId = a9e27230-8a3f-4edd-a0fd-5b31eaaaa879
+2022-10-20 15:33:01.530 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:33:01.538 INFO  Sending PlaceOrder command, OrderId = 34d2edeb-9cd8-4ed0-a77f-6c6bbfde8c9b
+2022-10-20 15:33:01.549 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:33:01.556 INFO  Unknown input. Please try again.
+2022-10-20 15:33:01.562 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:33:01.568 INFO  Sending PlaceOrder command, OrderId = 2dbe1d1b-d7ef-439b-988c-6b5552d1c6a0
+2022-10-20 15:33:01.576 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:33:01.579 INFO  Sending PlaceOrder command, OrderId = 638fe328-a369-4043-8a2b-0a0ccaa74af5
+2022-10-20 15:33:01.587 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:17.513 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 15:37:17.772 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 15:37:17.938 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:37.449 INFO  Sending PlaceOrder command, OrderId = 52855911-d5e4-4b6f-b2ec-383619f8f633
+2022-10-20 15:37:37.560 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:46.415 INFO  Sending PlaceOrder command, OrderId = deb1c4ec-880f-4ded-876f-af3007603b0d
+2022-10-20 15:37:46.425 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:47.845 INFO  Sending PlaceOrder command, OrderId = fb3bb764-22fc-4462-899f-558f3692cc8f
+2022-10-20 15:37:47.852 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:48.823 INFO  Sending PlaceOrder command, OrderId = 201694db-e8fa-4c12-bb35-338790d22f56
+2022-10-20 15:37:48.828 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:49.712 INFO  Sending PlaceOrder command, OrderId = c673edbc-6633-44d3-a60c-3bbf92174a67
+2022-10-20 15:37:49.716 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:50.469 INFO  Sending PlaceOrder command, OrderId = 69c044ed-6379-40d8-96e3-27f65803ded0
+2022-10-20 15:37:50.475 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:50.953 INFO  Sending PlaceOrder command, OrderId = 5d89ed19-54d4-43a9-9d67-34cedcd5d123
+2022-10-20 15:37:50.960 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:51.330 INFO  Sending PlaceOrder command, OrderId = a5a54304-47d4-4857-9e85-a9e4082d8069
+2022-10-20 15:37:51.336 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:51.623 INFO  Sending PlaceOrder command, OrderId = 65761e39-8dcc-4c81-a8fd-44de55500f70
+2022-10-20 15:37:51.634 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:51.987 INFO  Sending PlaceOrder command, OrderId = 0dbd3a8c-af5b-4fbf-95b2-5fa666a40006
+2022-10-20 15:37:51.993 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:52.336 INFO  Sending PlaceOrder command, OrderId = 39712c5f-0539-421a-8ac8-3e175a06e750
+2022-10-20 15:37:52.341 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:52.623 INFO  Sending PlaceOrder command, OrderId = d34f39de-e8d0-4416-b9ed-45d68bcc8cb0
+2022-10-20 15:37:52.629 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:52.921 INFO  Sending PlaceOrder command, OrderId = 6adbde62-4565-4671-97d1-7f201d09fde8
+2022-10-20 15:37:52.927 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:53.269 INFO  Sending PlaceOrder command, OrderId = 757e3163-04ae-4ca2-8598-848aec4c8dda
+2022-10-20 15:37:53.275 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:53.632 INFO  Sending PlaceOrder command, OrderId = 39dba50d-a3b4-4268-87ac-7f424a7d9394
+2022-10-20 15:37:53.638 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:53.954 INFO  Sending PlaceOrder command, OrderId = 34f5ca7e-d42b-45dc-90bd-50d04bcb5570
+2022-10-20 15:37:53.960 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:54.277 INFO  Sending PlaceOrder command, OrderId = 16d34d3a-08f6-4a23-8b50-d90b3db33c1d
+2022-10-20 15:37:54.283 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:54.671 INFO  Sending PlaceOrder command, OrderId = 1f62a6ad-64ca-49b4-acae-1b1bc0f14b13
+2022-10-20 15:37:54.676 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:54.893 INFO  Sending PlaceOrder command, OrderId = 41878a51-5856-4005-a795-8d830bfeb09c
+2022-10-20 15:37:54.898 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:55.086 INFO  Sending PlaceOrder command, OrderId = c88c5167-29c3-42b2-ac1e-38810feee164
+2022-10-20 15:37:55.092 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:55.251 INFO  Sending PlaceOrder command, OrderId = 25d942ce-a28e-4d60-8af5-c25783168eba
+2022-10-20 15:37:55.257 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:55.589 INFO  Sending PlaceOrder command, OrderId = c7014ce2-c70b-48b2-a969-1aad03a413a4
+2022-10-20 15:37:55.597 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:55.904 INFO  Sending PlaceOrder command, OrderId = 0600ba9d-bc0d-431b-8f9b-62e63a86d27b
+2022-10-20 15:37:55.911 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:56.179 INFO  Sending PlaceOrder command, OrderId = 408e6a20-6c3c-43b3-841c-f73b6d22171f
+2022-10-20 15:37:56.185 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:56.388 INFO  Sending PlaceOrder command, OrderId = 16fdeaa5-c705-43d2-9ba0-459b83adcaf9
+2022-10-20 15:37:56.392 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:56.589 INFO  Sending PlaceOrder command, OrderId = 45b23ae3-7229-41e5-bbcf-ed5a3276d9a5
+2022-10-20 15:37:56.595 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:56.834 INFO  Sending PlaceOrder command, OrderId = cefeb6bc-d3e2-46c6-9f68-4ff343e38231
+2022-10-20 15:37:56.839 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:37:57.031 INFO  Sending PlaceOrder command, OrderId = 095cb05b-8be7-48d9-8676-605d78cdfe27
+2022-10-20 15:37:57.035 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:43:59.082 INFO  Sending PlaceOrder command, OrderId = 9dd71fe3-21ab-4a8a-b8c3-fc8dfe39714b
+2022-10-20 15:43:59.085 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:43:59.920 INFO  Sending PlaceOrder command, OrderId = 2e0d69f0-cbb1-4fce-a9ef-6fc7695f70a5
+2022-10-20 15:43:59.923 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:06.818 INFO  Sending PlaceOrder command, OrderId = 48f86182-1665-44d8-880e-eaf39fc64053
+2022-10-20 15:44:06.822 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:41.928 INFO  Sending PlaceOrder command, OrderId = 2f319be2-8437-4b38-a663-0026f2fd9ff3
+2022-10-20 15:44:41.932 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:49.767 INFO  Sending PlaceOrder command, OrderId = d6987477-b28d-427d-af7c-8ff39cdad08e
+2022-10-20 15:44:49.771 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:50.173 INFO  Sending PlaceOrder command, OrderId = 76fb6958-93f7-4090-ab4e-03b0cbd1266c
+2022-10-20 15:44:50.176 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:50.457 INFO  Sending PlaceOrder command, OrderId = 3b27cebf-12d4-4830-822b-dde9c45d9fe4
+2022-10-20 15:44:50.459 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:50.751 INFO  Sending PlaceOrder command, OrderId = 3b50d578-728f-4fb3-962d-70ab42fdc65b
+2022-10-20 15:44:50.753 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:51.037 INFO  Sending PlaceOrder command, OrderId = 33300032-8e8d-4605-b3f1-1d62b76cb4c9
+2022-10-20 15:44:51.040 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:52.088 INFO  Sending PlaceOrder command, OrderId = d95a5765-c95f-452e-9dec-40b5bf04af2a
+2022-10-20 15:44:52.091 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:52.281 INFO  Sending PlaceOrder command, OrderId = bc107035-89dd-43ad-8d0d-182bfa766456
+2022-10-20 15:44:52.284 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:52.472 INFO  Sending PlaceOrder command, OrderId = 1da68a24-a7d3-4d2e-b180-5df2d830c0f9
+2022-10-20 15:44:52.476 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:52.646 INFO  Sending PlaceOrder command, OrderId = 362a6fba-b486-4001-b6f1-531e9a95cc34
+2022-10-20 15:44:52.649 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:52.815 INFO  Sending PlaceOrder command, OrderId = dcc1786a-bbb7-4b44-8513-a4c4f86e313d
+2022-10-20 15:44:52.817 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:53.004 INFO  Sending PlaceOrder command, OrderId = fb6b846a-dca8-45cd-af69-398f63b8e8f6
+2022-10-20 15:44:53.008 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:53.185 INFO  Sending PlaceOrder command, OrderId = 061c985d-c376-4ae0-9992-56090ae27676
+2022-10-20 15:44:53.188 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:53.369 INFO  Sending PlaceOrder command, OrderId = a2f295d5-b85c-482f-bc0f-c9cf47b76526
+2022-10-20 15:44:53.381 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:53.542 INFO  Sending PlaceOrder command, OrderId = 70c9dd24-dafa-4c0d-9315-f96e53d0b5ea
+2022-10-20 15:44:53.545 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:53.719 INFO  Sending PlaceOrder command, OrderId = b512c166-3994-42b8-9166-138a6a07a732
+2022-10-20 15:44:53.722 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:55.253 INFO  Sending PlaceOrder command, OrderId = 2c298dc9-2cce-4b34-a15a-da5df92897cb
+2022-10-20 15:44:55.257 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:55.470 INFO  Sending PlaceOrder command, OrderId = 55fcb681-f328-409b-8b7c-1b9166a4bcbe
+2022-10-20 15:44:55.474 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:55.684 INFO  Sending PlaceOrder command, OrderId = 0576d17e-d792-46ed-9138-ae897a0be2cd
+2022-10-20 15:44:55.687 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:55.885 INFO  Sending PlaceOrder command, OrderId = 21c49b8f-5bf4-44e3-94df-b51f34bd9fe4
+2022-10-20 15:44:55.889 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:44:56.076 INFO  Sending PlaceOrder command, OrderId = c5057af7-c71f-45ef-ade7-b44a1f774acb
+2022-10-20 15:44:56.079 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:45:50.128 INFO  Sending PlaceOrder command, OrderId = 9db91795-d1a5-454f-99d7-c692dd451ba8
+2022-10-20 15:45:50.131 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:45:50.738 INFO  Sending PlaceOrder command, OrderId = 30817817-0496-4869-aadb-0dba2b855feb
+2022-10-20 15:45:50.742 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:45:51.126 INFO  Sending PlaceOrder command, OrderId = 662d7689-74ed-4b8d-b6bf-424a6df45a19
+2022-10-20 15:45:51.131 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:45:51.459 INFO  Sending PlaceOrder command, OrderId = 69f00e0f-0f32-41a7-90ea-9e76cd1d6d19
+2022-10-20 15:45:51.462 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:45:51.867 INFO  Sending PlaceOrder command, OrderId = cc93ea38-c30a-43c6-a18b-605c07e56819
+2022-10-20 15:45:51.870 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:45:52.328 INFO  Sending PlaceOrder command, OrderId = 133498a7-67b7-4df1-bd0b-acc667531520
+2022-10-20 15:45:52.331 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:45:52.823 INFO  Sending PlaceOrder command, OrderId = 77c92898-e009-4eeb-9871-1b12c42d1bca
+2022-10-20 15:45:52.827 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:47:17.466 INFO  Sending PlaceOrder command, OrderId = 5d00db6c-c3ac-4927-a17e-a3bcaacf0c76
+2022-10-20 15:47:17.470 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:47:35.518 INFO  Sending PlaceOrder command, OrderId = 98a435ee-32ee-4265-ae14-1b9b0f72b0fd
+2022-10-20 15:47:35.521 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:51:47.638 INFO  Sending PlaceOrder command, OrderId = 4a4fefd2-8fba-4918-a89e-eef24aaa49a0
+2022-10-20 15:51:47.641 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:52:32.251 INFO  Initiating shutdown.
+2022-10-20 15:52:32.264 INFO  Shutdown complete.
+2022-10-20 15:57:03.287 INFO  Logging to 'C:\Users\PetarPetrov\source\repos\StepByStep-RetailDemo\RetailDemo\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-20 15:57:03.418 INFO  Selected active license from C:\Users\PetarPetrov\AppData\Local\ParticularSoftware\license.xml
+License Expiration: 2023-01-18
+2022-10-20 15:57:03.539 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:57:28.381 INFO  Sending PlaceOrder command, OrderId = 86a8ee02-1ba8-47fd-aa08-ac0ebce521e7
+2022-10-20 15:57:28.420 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:57:29.875 INFO  Sending PlaceOrder command, OrderId = b8ca8f8f-5b3a-4c11-aa9b-7ed8199b00a4
+2022-10-20 15:57:29.884 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:57:30.748 INFO  Sending PlaceOrder command, OrderId = ef2c93a6-16f3-48e0-b6db-73428b1ef145
+2022-10-20 15:57:30.762 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:57:45.914 INFO  Sending PlaceOrder command, OrderId = e2ef410e-d77d-4899-8a4f-08e34755b3b4
+2022-10-20 15:57:45.918 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:57:47.784 INFO  Sending PlaceOrder command, OrderId = 304921aa-447e-4cb2-8c1d-9706b62423a6
+2022-10-20 15:57:47.791 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:01.041 INFO  Sending PlaceOrder command, OrderId = 842c9b60-1c18-4518-9f52-f044d707750a
+2022-10-20 15:58:01.044 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:03.027 INFO  Sending PlaceOrder command, OrderId = 2f1121ef-0cee-417a-bddc-90dd2ce7ef00
+2022-10-20 15:58:03.030 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:06.236 INFO  Sending PlaceOrder command, OrderId = 47ab617d-2f6f-4ecb-9b8d-37882488a994
+2022-10-20 15:58:06.243 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:09.423 INFO  Sending PlaceOrder command, OrderId = c5a2c571-fafc-4473-8f05-c67eec7638aa
+2022-10-20 15:58:09.427 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:12.361 INFO  Sending PlaceOrder command, OrderId = 7c582d90-3964-4cfc-a107-c05bd71e96bb
+2022-10-20 15:58:12.365 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:14.890 INFO  Sending PlaceOrder command, OrderId = 87e08d77-e9e3-449a-8a61-1530061f68b7
+2022-10-20 15:58:14.894 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:17.048 INFO  Sending PlaceOrder command, OrderId = b0bd69ef-3218-4df1-bdb8-32ec2067b371
+2022-10-20 15:58:17.052 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:22.299 INFO  Sending PlaceOrder command, OrderId = 96bda182-e76a-402b-b959-d497591a6ab3
+2022-10-20 15:58:22.303 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:22.715 INFO  Sending PlaceOrder command, OrderId = 4151c826-04c4-414a-969f-cc70bf4ea3c8
+2022-10-20 15:58:22.719 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:23.036 INFO  Sending PlaceOrder command, OrderId = 8d29b523-f300-409c-8651-3c4e2e109dc5
+2022-10-20 15:58:23.040 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:23.336 INFO  Sending PlaceOrder command, OrderId = 6fb0abe8-66a7-4601-8db1-2d888c657b3f
+2022-10-20 15:58:23.340 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:23.781 INFO  Sending PlaceOrder command, OrderId = aaef0b9b-2cbd-4f59-aa39-e359087f4866
+2022-10-20 15:58:23.786 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:24.189 INFO  Sending PlaceOrder command, OrderId = 2e9aa3a8-5246-45f2-b95a-fa669b09be55
+2022-10-20 15:58:24.193 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:24.612 INFO  Sending PlaceOrder command, OrderId = a6521abf-bde7-4881-9fc6-1fca6729cb54
+2022-10-20 15:58:24.616 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:24.946 INFO  Sending PlaceOrder command, OrderId = dcc51420-1a31-4398-bc2a-c5e1ae6cc291
+2022-10-20 15:58:24.949 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:25.263 INFO  Sending PlaceOrder command, OrderId = 039d75bd-7c5d-429a-b2e3-dca6615678d7
+2022-10-20 15:58:25.267 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:25.569 INFO  Sending PlaceOrder command, OrderId = c1a4e783-53f4-4860-bed2-a062c895e420
+2022-10-20 15:58:25.573 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:25.894 INFO  Sending PlaceOrder command, OrderId = 57a3cb46-0166-474f-9bd2-2c9695b90729
+2022-10-20 15:58:25.899 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:26.204 INFO  Sending PlaceOrder command, OrderId = ea8a85b3-dad9-4742-9f12-dde111a321f3
+2022-10-20 15:58:26.208 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:26.540 INFO  Sending PlaceOrder command, OrderId = ec4971b8-e56b-49d8-ae82-3ff60e8a7170
+2022-10-20 15:58:26.543 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:26.871 INFO  Sending PlaceOrder command, OrderId = 3a079fbd-77e7-482a-a56e-617f856afe5d
+2022-10-20 15:58:26.874 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:27.176 INFO  Sending PlaceOrder command, OrderId = 1d23ac49-6f2a-4fd7-99e1-74425340575e
+2022-10-20 15:58:27.180 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:27.749 INFO  Sending PlaceOrder command, OrderId = 5406cf02-55d9-413c-82d2-0b783a5bb30f
+2022-10-20 15:58:27.754 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:28.199 INFO  Sending PlaceOrder command, OrderId = 064a3ca6-109b-4dd9-8b26-5cc592c30524
+2022-10-20 15:58:28.203 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:29.031 INFO  Sending PlaceOrder command, OrderId = 3336bdad-02aa-4c3c-8748-17998e5c7226
+2022-10-20 15:58:29.035 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:37.988 INFO  Sending PlaceOrder command, OrderId = 558dd039-d5ce-4cbd-ad8b-8c7f905b7479
+2022-10-20 15:58:37.991 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:38.891 INFO  Sending PlaceOrder command, OrderId = 325ee80e-c2bc-4f9f-8b43-ce6886d63825
+2022-10-20 15:58:38.895 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:39.428 INFO  Sending PlaceOrder command, OrderId = 8450a7dc-ab50-4afb-a5ad-aa7706f897d5
+2022-10-20 15:58:39.432 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:39.696 INFO  Sending PlaceOrder command, OrderId = fb67547b-66c4-4c8c-a359-5b599f02a9d9
+2022-10-20 15:58:39.699 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:39.950 INFO  Sending PlaceOrder command, OrderId = b3dd0e90-4d3d-4bc1-b0f5-842a3b74474b
+2022-10-20 15:58:39.954 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:40.222 INFO  Sending PlaceOrder command, OrderId = 119dd277-33d3-4d38-a472-399ab5283ae3
+2022-10-20 15:58:40.225 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:41.684 INFO  Sending PlaceOrder command, OrderId = 55b09eac-340e-4fc7-817f-81c11f0776f5
+2022-10-20 15:58:41.693 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:42.271 INFO  Sending PlaceOrder command, OrderId = e34104db-fdaf-4313-a590-6a6722eae3d6
+2022-10-20 15:58:42.274 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:42.641 INFO  Sending PlaceOrder command, OrderId = 8b6c4cc0-7767-4874-adec-8a8593809367
+2022-10-20 15:58:42.645 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:43.147 INFO  Sending PlaceOrder command, OrderId = c2b8a239-b4b7-4330-ab31-266357b4bbb5
+2022-10-20 15:58:43.150 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:43.172 INFO  Sending PlaceOrder command, OrderId = df81be69-7832-47cf-9bb7-e52ba19ae392
+2022-10-20 15:58:43.175 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:43.203 INFO  Sending PlaceOrder command, OrderId = bb3ae806-0d8c-409a-8282-12f6a82e14e0
+2022-10-20 15:58:43.206 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:43.234 INFO  Sending PlaceOrder command, OrderId = 0f4b7c33-a81f-400a-a489-733b2656c784
+2022-10-20 15:58:43.237 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:43.281 INFO  Sending PlaceOrder command, OrderId = 612a48ab-577e-4cc0-9c4a-0729bee0c7d8
+2022-10-20 15:58:43.284 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:43.310 INFO  Sending PlaceOrder command, OrderId = e96fee39-cfae-46fa-aabc-5e911b07c51c
+2022-10-20 15:58:43.313 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:43.343 INFO  Sending PlaceOrder command, OrderId = cb572b69-9307-4c1f-b977-afc0a70475e9
+2022-10-20 15:58:43.346 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:43.372 INFO  Sending PlaceOrder command, OrderId = e8696a6f-6ef1-4a10-b8d1-a751127d8c82
+2022-10-20 15:58:43.375 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:51.604 INFO  Sending PlaceOrder command, OrderId = 2cecbcd6-364b-4639-acd7-61ada6ced23f
+2022-10-20 15:58:51.607 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:51.907 INFO  Sending PlaceOrder command, OrderId = 4524eff1-980c-4781-8bb9-50a62e754bf3
+2022-10-20 15:58:51.911 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:52.143 INFO  Sending PlaceOrder command, OrderId = 4269df72-4f77-4d01-b41b-267476c6e9ae
+2022-10-20 15:58:52.146 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:52.837 INFO  Sending PlaceOrder command, OrderId = fb8b1a62-3fe7-4368-9796-5fbbd29c05f0
+2022-10-20 15:58:52.840 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:53.211 INFO  Sending PlaceOrder command, OrderId = fcdc55ca-a81c-4ced-a20d-fd692b8c3c55
+2022-10-20 15:58:53.214 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:53.587 INFO  Sending PlaceOrder command, OrderId = dbc1db0e-ad53-4a0c-87a7-885844466c6a
+2022-10-20 15:58:53.590 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:54.041 INFO  Sending PlaceOrder command, OrderId = 644912ae-3e5d-4314-af01-584b922ef7b0
+2022-10-20 15:58:54.045 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:54.424 INFO  Sending PlaceOrder command, OrderId = 06d497c6-a627-4715-a8a5-01e922d97b91
+2022-10-20 15:58:54.427 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 15:58:54.790 INFO  Sending PlaceOrder command, OrderId = 222f0b6b-5bf3-41a9-ab46-f24288e20741
+2022-10-20 15:58:54.793 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:14.400 INFO  Sending PlaceOrder command, OrderId = 35511003-4083-4381-83d0-1f1d69435861
+2022-10-20 16:00:14.403 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:23.925 INFO  Sending PlaceOrder command, OrderId = 8be99a65-9545-4035-be39-38ce30e9befc
+2022-10-20 16:00:23.928 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:24.175 INFO  Sending PlaceOrder command, OrderId = 14f814e7-6ae0-49b8-ad31-77135ef0cb7c
+2022-10-20 16:00:24.178 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:24.553 INFO  Sending PlaceOrder command, OrderId = 96397bf9-9e25-45a6-80d4-5d1dc432e84a
+2022-10-20 16:00:24.556 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:24.799 INFO  Sending PlaceOrder command, OrderId = 2a1f5e47-a300-4937-9266-d50388994f6b
+2022-10-20 16:00:24.802 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:25.338 INFO  Sending PlaceOrder command, OrderId = 13c4045e-cfa9-49b6-9801-f6e105af5cbe
+2022-10-20 16:00:25.341 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:25.752 INFO  Sending PlaceOrder command, OrderId = 2dc19467-6b2d-4803-96ee-9b18bbede985
+2022-10-20 16:00:25.755 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:29.701 INFO  Sending PlaceOrder command, OrderId = d71453d9-2e0f-4557-93e5-87f48234aeb7
+2022-10-20 16:00:29.704 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:30.931 INFO  Sending PlaceOrder command, OrderId = 2db3a094-7679-4152-bb50-8e7f759f6c22
+2022-10-20 16:00:30.934 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:31.811 INFO  Sending PlaceOrder command, OrderId = 0c63d9af-08ef-4150-bf05-4a571f8fe27d
+2022-10-20 16:00:31.816 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:32.749 INFO  Sending PlaceOrder command, OrderId = b35258b4-2512-4c61-805a-d1d16f7b5402
+2022-10-20 16:00:32.752 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:33.735 INFO  Sending PlaceOrder command, OrderId = 99cdc844-c5f0-450a-bdd2-1d86d80674db
+2022-10-20 16:00:33.739 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:34.685 INFO  Sending PlaceOrder command, OrderId = 0fddc581-d926-48e2-a33b-085f8166a22c
+2022-10-20 16:00:34.690 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:35.465 INFO  Sending PlaceOrder command, OrderId = 564bc4fb-d3e9-4e64-b65e-776d2a9f24d4
+2022-10-20 16:00:35.469 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:36.359 INFO  Sending PlaceOrder command, OrderId = 023338ce-a727-455a-82fc-0512aeb2c77b
+2022-10-20 16:00:36.362 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:37.326 INFO  Sending PlaceOrder command, OrderId = f9493ca3-ea4c-4a1e-9b3c-4d526729ebea
+2022-10-20 16:00:37.329 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:38.596 INFO  Sending PlaceOrder command, OrderId = 862ad952-a8af-4dfb-8e95-de71e8b61328
+2022-10-20 16:00:38.601 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:40.295 INFO  Sending PlaceOrder command, OrderId = 3a76ad02-c9a9-4c28-873d-0161e8961cf6
+2022-10-20 16:00:40.299 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:41.218 INFO  Sending PlaceOrder command, OrderId = fa82e529-71d1-4f20-9c78-484eb0e553fe
+2022-10-20 16:00:41.220 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:44.854 INFO  Sending PlaceOrder command, OrderId = 2ffbe26a-258a-49b2-9532-1a2e602e3c04
+2022-10-20 16:00:44.856 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:45.828 INFO  Sending PlaceOrder command, OrderId = 4b59bb95-d324-4ad7-b2ff-44590557b44d
+2022-10-20 16:00:45.831 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:48.951 INFO  Sending PlaceOrder command, OrderId = ffa1bca0-e492-4209-9c62-399e5111ed26
+2022-10-20 16:00:48.954 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:50.375 INFO  Sending PlaceOrder command, OrderId = cfef6485-1d94-4623-9cbd-cf457144b421
+2022-10-20 16:00:50.379 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:54.515 INFO  Sending PlaceOrder command, OrderId = 04481969-0af4-4dcc-921e-cb0eeacde5bf
+2022-10-20 16:00:54.518 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:55.031 INFO  Sending PlaceOrder command, OrderId = aa043cca-6b16-44e4-8254-749777f26287
+2022-10-20 16:00:55.035 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:55.057 INFO  Sending PlaceOrder command, OrderId = 6392c91a-bf10-44b4-b0e4-892c3054c673
+2022-10-20 16:00:55.061 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:55.079 INFO  Sending PlaceOrder command, OrderId = bd1c3fac-d9e3-4665-8587-699029b0e4ee
+2022-10-20 16:00:55.082 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:55.109 INFO  Sending PlaceOrder command, OrderId = 87a832e0-5417-4be5-85e4-e25c19014ffb
+2022-10-20 16:00:55.112 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:55.259 INFO  Sending PlaceOrder command, OrderId = e59a5289-4c91-4980-b69a-259942bf9e38
+2022-10-20 16:00:55.262 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:55.461 INFO  Sending PlaceOrder command, OrderId = c7dc29e0-03f8-44df-8ea5-8d051879c417
+2022-10-20 16:00:55.464 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:55.639 INFO  Sending PlaceOrder command, OrderId = a233a168-3cd7-4d0f-97a6-78da766b4b91
+2022-10-20 16:00:55.642 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:55.830 INFO  Sending PlaceOrder command, OrderId = 9ccec30d-f572-4252-a10d-206576919358
+2022-10-20 16:00:55.834 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:56.010 INFO  Sending PlaceOrder command, OrderId = 622c5b2e-dd26-4137-8a5f-7fd904d0da8e
+2022-10-20 16:00:56.013 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:56.191 INFO  Sending PlaceOrder command, OrderId = 41a11009-c2f6-493b-87d5-3560c8ba9e06
+2022-10-20 16:00:56.194 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:56.399 INFO  Sending PlaceOrder command, OrderId = 747f52fc-b57d-4b6d-afb9-199c1b1cfadb
+2022-10-20 16:00:56.403 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:56.587 INFO  Sending PlaceOrder command, OrderId = 89f94b77-ecaf-48b5-b5f3-760e75c359e1
+2022-10-20 16:00:56.590 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:56.783 INFO  Sending PlaceOrder command, OrderId = c9b40b90-2101-4feb-a79a-540cfacc0d12
+2022-10-20 16:00:56.788 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:56.982 INFO  Sending PlaceOrder command, OrderId = 0bc8160a-f4ff-4359-b12d-34d048a30039
+2022-10-20 16:00:56.985 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:57.184 INFO  Sending PlaceOrder command, OrderId = db89c1d6-15cd-4004-bace-e447453690e7
+2022-10-20 16:00:57.188 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:57.357 INFO  Sending PlaceOrder command, OrderId = 00c3ef66-ba51-4d2a-9cc3-61ebae6feee3
+2022-10-20 16:00:57.361 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:57.550 INFO  Sending PlaceOrder command, OrderId = 0e871677-3256-4b25-b136-872306b76c89
+2022-10-20 16:00:57.554 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:57.765 INFO  Sending PlaceOrder command, OrderId = d68d0612-5b65-4950-92d0-58ce6ca19b10
+2022-10-20 16:00:57.769 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:57.948 INFO  Sending PlaceOrder command, OrderId = f8e3d660-9225-4e28-a8d2-0129ac4a8065
+2022-10-20 16:00:57.953 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:58.142 INFO  Sending PlaceOrder command, OrderId = be9933b9-ae8a-4373-890b-206d1773d744
+2022-10-20 16:00:58.145 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:58.362 INFO  Sending PlaceOrder command, OrderId = c2da6688-6dca-4fa7-b1b3-338a46452dee
+2022-10-20 16:00:58.366 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:58.542 INFO  Sending PlaceOrder command, OrderId = 1ba0cce4-8dcc-46bc-a86a-00584953118b
+2022-10-20 16:00:58.546 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:58.759 INFO  Sending PlaceOrder command, OrderId = 057df92d-89b2-4e95-959e-6c1790d0b88b
+2022-10-20 16:00:58.763 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:58.969 INFO  Sending PlaceOrder command, OrderId = ab2b8bed-083c-40bb-b59d-4f8bb052cc32
+2022-10-20 16:00:58.972 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:59.170 INFO  Sending PlaceOrder command, OrderId = 9312ccec-11b7-499a-abf6-827afda5ab04
+2022-10-20 16:00:59.173 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:59.374 INFO  Sending PlaceOrder command, OrderId = 849b71be-f117-4ef8-bf0a-1a1989fa3ca2
+2022-10-20 16:00:59.377 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:59.573 INFO  Sending PlaceOrder command, OrderId = c4abf421-e732-4fa7-8bed-96a40e71f5e9
+2022-10-20 16:00:59.578 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:59.782 INFO  Sending PlaceOrder command, OrderId = b0be0ff2-9085-4e1f-9f03-f0870687bb7f
+2022-10-20 16:00:59.786 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:00:59.969 INFO  Sending PlaceOrder command, OrderId = 08d0547e-e2e0-45c2-87d3-87bbb6a894b2
+2022-10-20 16:00:59.971 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:00.164 INFO  Sending PlaceOrder command, OrderId = 428d5b09-66ca-4932-bf2c-2908c4fdc77e
+2022-10-20 16:01:00.167 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:00.352 INFO  Sending PlaceOrder command, OrderId = 369c3bdc-324f-416a-b610-00f9988a4f0f
+2022-10-20 16:01:00.355 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:00.561 INFO  Sending PlaceOrder command, OrderId = e43e687d-1a2e-4f70-ab1e-5d8b7babb736
+2022-10-20 16:01:00.564 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:00.729 INFO  Sending PlaceOrder command, OrderId = 2a59185c-6f8e-43bb-900b-42f78541b28d
+2022-10-20 16:01:00.734 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:00.919 INFO  Sending PlaceOrder command, OrderId = 9b7b0108-260c-4f99-ab5c-3cd604185a41
+2022-10-20 16:01:00.922 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:01.103 INFO  Sending PlaceOrder command, OrderId = b937beee-7bde-4550-a7f7-070273844e34
+2022-10-20 16:01:01.107 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:01.302 INFO  Sending PlaceOrder command, OrderId = a96684b8-3851-40c1-91f3-dc9d08c74adc
+2022-10-20 16:01:01.305 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:01.494 INFO  Sending PlaceOrder command, OrderId = 8b96bcb7-6f42-4f3c-8c51-93587e77725f
+2022-10-20 16:01:01.497 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:01.688 INFO  Sending PlaceOrder command, OrderId = 493de9c1-cb64-4159-8e0c-eae48bd24a44
+2022-10-20 16:01:01.691 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:01.879 INFO  Sending PlaceOrder command, OrderId = 58abe8c0-064f-4a32-8f72-235513d9e173
+2022-10-20 16:01:01.882 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:02.080 INFO  Sending PlaceOrder command, OrderId = 05ed0344-d378-4c03-9d89-6854fa84c2bf
+2022-10-20 16:01:02.083 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:02.276 INFO  Sending PlaceOrder command, OrderId = 907191a9-228a-48f5-bd39-63e8108baa2d
+2022-10-20 16:01:02.280 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:02.494 INFO  Sending PlaceOrder command, OrderId = 88a6457d-9221-49ab-bfed-5e009fd6f96b
+2022-10-20 16:01:02.497 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:02.680 INFO  Sending PlaceOrder command, OrderId = da1337ae-7084-49b5-ad51-85ed4a2cde1a
+2022-10-20 16:01:02.683 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:02.875 INFO  Sending PlaceOrder command, OrderId = b3ae40a0-72ef-4361-97f8-7d62b518ccda
+2022-10-20 16:01:02.878 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:03.093 INFO  Sending PlaceOrder command, OrderId = 12cfe597-5cb6-4847-a107-cd23bb897a85
+2022-10-20 16:01:03.098 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:03.311 INFO  Sending PlaceOrder command, OrderId = b0d60548-5b47-46ca-bb05-0ed6836aa106
+2022-10-20 16:01:03.314 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:03.524 INFO  Sending PlaceOrder command, OrderId = 669d2ca3-c362-4c1d-9a52-fac7a88a0357
+2022-10-20 16:01:03.528 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:03.700 INFO  Sending PlaceOrder command, OrderId = ca94c8b2-d4a0-443e-9483-96df0f3b10be
+2022-10-20 16:01:03.704 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:03.892 INFO  Sending PlaceOrder command, OrderId = b9d1e4e8-202b-40ba-a035-f2f7506a1129
+2022-10-20 16:01:03.896 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:04.127 INFO  Sending PlaceOrder command, OrderId = eaa3f5df-55aa-48ee-a212-71fb063cca0c
+2022-10-20 16:01:04.134 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:04.309 INFO  Sending PlaceOrder command, OrderId = d5e3b21a-97ad-4902-b51b-932a1c639f5d
+2022-10-20 16:01:04.313 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:04.466 INFO  Sending PlaceOrder command, OrderId = 92e7dc44-8a65-440e-adf7-5309c8964712
+2022-10-20 16:01:04.470 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:04.656 INFO  Sending PlaceOrder command, OrderId = ba697f35-f0a0-48de-9f62-33a057d7a061
+2022-10-20 16:01:04.660 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:04.867 INFO  Sending PlaceOrder command, OrderId = 6ad67e5c-f3b6-4cbe-a6f7-f180925a761a
+2022-10-20 16:01:04.871 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:05.152 INFO  Sending PlaceOrder command, OrderId = e1978a24-18e1-4c5d-9e35-47405b0bde79
+2022-10-20 16:01:05.155 INFO  Press 'P' to place an order, or 'Q' to quit.
+2022-10-20 16:01:05.360 INFO  Sending PlaceOrder command, OrderId = 68c4a184-df6f-462f-bd37-0ee094f9fff0
+2022-10-20 16:01:05.363 INFO  Press 'P' to place an order, or 'Q' to quit.

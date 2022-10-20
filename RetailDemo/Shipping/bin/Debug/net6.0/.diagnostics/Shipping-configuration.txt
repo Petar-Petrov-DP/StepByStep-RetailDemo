@@ -1556,7 +1556,7 @@
       "MajorRevision": -1,
       "MinorRevision": -1
     },
-    "WorkingSet": 52523008,
+    "WorkingSet": 45711360,
     "SystemPageSize": 4096,
     "HostName": "LAPTOP-6SUMS60P",
     "UserName": "PetarPetrov",

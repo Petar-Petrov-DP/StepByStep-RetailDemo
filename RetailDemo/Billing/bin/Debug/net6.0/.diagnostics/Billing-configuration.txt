@@ -1556,7 +1556,7 @@
       "MajorRevision": -1,
       "MinorRevision": -1
     },
-    "WorkingSet": 52121600,
+    "WorkingSet": 45891584,
     "SystemPageSize": 4096,
     "HostName": "LAPTOP-6SUMS60P",
     "UserName": "PetarPetrov",
@@ -1582,9 +1582,9 @@
     ],
     "NumberOfMessagesFoundAtStartup": 3,
     "Messages": [
+      "Billing.Messages.Commands.OrderBilled",
       "Messages.Commands.PlaceOrder",
-      "Messages.Commands.OrderPlaced",
-      "Billing.Messages.Commands.OrderBilled"
+      "Messages.Commands.OrderPlaced"
     ]
   },
   "Receiving": {
