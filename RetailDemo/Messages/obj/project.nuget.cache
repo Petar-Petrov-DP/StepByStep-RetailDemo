@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TuapwD+fG+B4zwkxLTvX1OdkAADIKGqSXxP23JxqMrZaWG8n5VrZcP1LATRDM97QljPr/u7+UqwzJQjoIw1I7A==",
+  "dgSpecHash": "1tZ5mRQRFGSIcVMsMdq8y5RHC5k9HLfGQSRhSYM4FR3Be26j+dXx5UsVlIGol63nRK74XEfaNNN8IxIBjXgggg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\ClientUI\\ClientUI.csproj",
+  "projectFilePath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\PetarPetrov\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

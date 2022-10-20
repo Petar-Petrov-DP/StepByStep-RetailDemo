@@ -208,19 +208,6 @@
             "rid": "win"
           }
         }
-      },
-      "Messages/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "NServiceBus": "7.8.0"
-        },
-        "compile": {
-          "bin/placeholder/Messages.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Messages.dll": {}
-        }
       }
     }
   },
@@ -767,16 +754,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Messages/1.0.0": {
-      "type": "project",
-      "path": "../Messages/Messages.csproj",
-      "msbuildProject": "../Messages/Messages.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Messages >= 1.0.0",
       "NServiceBus >= 7.8.0"
     ]
   },
@@ -786,11 +767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\ClientUI\\ClientUI.csproj",
-      "projectName": "ClientUI",
-      "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\ClientUI\\ClientUI.csproj",
+      "projectUniqueName": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj",
+      "projectName": "Messages",
+      "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj",
       "packagesPath": "C:\\Users\\PetarPetrov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\ClientUI\\obj\\",
+      "outputPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PetarPetrov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -806,11 +787,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj": {
-              "projectPath": "C:\\Users\\PetarPetrov\\source\\repos\\StepByStep-RetailDemo\\RetailDemo\\Messages\\Messages.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
